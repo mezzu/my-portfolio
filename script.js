@@ -86,6 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
       alert("Thank you for your message! I will get back to you soon.");
 
       // Reset form
+
       this.reset();
     });
   }
